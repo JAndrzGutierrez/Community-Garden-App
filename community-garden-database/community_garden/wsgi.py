@@ -1,5 +1,5 @@
 """
-WSGI config for commGarden project.
+WSGI config for community_garden project.
 
 It exposes the WSGI callable as a module-level variable named ``application``.
 
@@ -11,6 +11,6 @@ import os
 
 from django.core.wsgi import get_wsgi_application
 
-os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'commGarden.settings')
+os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'community_garden.settings')
 
 application = get_wsgi_application()
