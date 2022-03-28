@@ -46,13 +46,11 @@ Full CRUD Actions implemented
 
 Upload images of wireframe to cloudinary and add the link here with a description of the specific wireframe. Also, define the the React components and the architectural design of your app.
 
-- [add link to your wireframes]()
+- [Desktop wireframes](https://drive.google.com/file/d/1Vs8HUljp32pMk4Khhw_OEcUeyVCTeIhG/view?usp=sharing)
+-- [Mobile wireframes]( https://drive.google.com/file/d/1SNraOpZOrIm--L37KMraG-4r9v2DCClo/view?usp=sharing)
 - [add link to your react architecture]()
 
 
-### MVP/PostMVP - 5min
-
-The functionality will then be divided into two separate lists: MPV and PostMVP.  Carefully decided what is placed into your MVP as the client will expect this functionality to be implemented upon project completion.  
 
 #### MVP
 - The user should be able to Register 
@@ -68,7 +66,6 @@ The functionality will then be divided into two separate lists: MPV and PostMVP.
 
 ## Additional Libraries
 anime.js
-
 
 ## Code Snippet
 TASK_STATUS = (
